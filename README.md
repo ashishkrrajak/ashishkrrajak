@@ -1,8 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Rajak</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Proficient in various platforms, languages, and embedded systems.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiskrrajak&label=Profile%20views&color=10b40e&style=flat" alt="ashiskrrajak" /> </p>
+
+- 🔭 I’m currently working on [1channel SFA](https://1channel.channelplay.in/retaility/login/index)
+
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **ashish.kumarrajak765@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1x8sUnvT4QBQYNlpDQzwc1K31GW8OogSU/view?usp=drive_link](https://drive.google.com/file/d/1x8sUnvT4QBQYNlpDQzwc1K31GW8OogSU/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/ashiskrrajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashiskrrajak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-kumar-rajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-rajak" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ashishkrrajak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashishkrrajak" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashishkrrajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashishkrrajak" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ashishkrrajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashishkrrajak" height="30" width="40" /></a>

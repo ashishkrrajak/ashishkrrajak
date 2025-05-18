@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashiskrrajak" target="blank"><img src="https://img.shields.io/twitter/follow/ashiskrrajak?logo=twitter&style=for-the-badge" alt="ashiskrrajak" /></a> </p>
 
-- 🔭 I’m currently working on [1channel CRM](https://1channel.channelplay.in/retaility/login/index](https://crm.1channel.co/auth/login)
+- 🔭 I’m currently working on [1channel CRM]([https://crm.1channel.co/auth/login])
 
 - 🌱 I’m currently learning **NextJs**
 

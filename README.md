@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/ashiskrrajak" target="blank"><img src="https://img.shields.io/twitter/follow/ashiskrrajak?logo=twitter&style=for-the-badge" alt="ashiskrrajak" /></a> </p>
 
-- 🔭 I’m currently working on [1channel SFA](https://1channel.channelplay.in/retaility/login/index)
+- 🔭 I’m currently working on [1channel CRM](https://1channel.channelplay.in/retaility/login/index](https://crm.1channel.co/auth/login)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **Java**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashiskrrajak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashiskrrajak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashish-kumar-rajak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-rajak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashishkrrajak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-rajak" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ashishkrrajak" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashishkrrajak" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashishkrrajak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashishkrrajak" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ashishkrrajak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashishkrrajak" height="30" width="40" /></a>

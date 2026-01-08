@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ashish.kumarrajak765@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x8sUnvT4QBQYNlpDQzwc1K31GW8OogSU/view?usp=drive_link](https://drive.google.com/file/d/1x8sUnvT4QBQYNlpDQzwc1K31GW8OogSU/view?usp=drive_link)
+- 📄 Know about my experiences [https://ashishkumarrajak.vercel.app/] [https://drive.google.com/file/d/1KkZoit4YGKMCYx4zYurEYMnjgoS0HPlt/view])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

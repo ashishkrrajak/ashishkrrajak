@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ashish.kumarrajak765@gmail.com**
 
-- 📄 Know about my experiences Portfolio ([https://ashishkumarrajak.vercel.app/])   Resume([https://drive.google.com/file/d/1KkZoit4YGKMCYx4zYurEYMnjgoS0HPlt/view])
+- 📄 Know about my experiences <p align="left"> <a href="https://ashishkumarrajak.vercel.app/" target="blank">Portfolio </a> </p> Resume([https://drive.google.com/file/d/1KkZoit4YGKMCYx4zYurEYMnjgoS0HPlt/view])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

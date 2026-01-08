@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiskrrajak&label=Profile%20views&color=10b40e&style=flat" alt="ashiskrrajak" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/ashiskrrajak" target="_blank"><img src="https://img.shields.io/twitter/follow/ashiskrrajak?logo=twitter&style=for-the-badge" alt="ashiskrrajak" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ashiskrrajak" target="blank"><img src="https://img.shields.io/twitter/follow/ashiskrrajak?logo=twitter&style=for-the-badge" alt="ashiskrrajak" /></a> </p>
 
 - 🔭 I’m currently working on [1channel CRM]([https://crm.1channel.co/auth/login])
 

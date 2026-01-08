@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [1channel CRM]([https://crm.1channel.co/auth/login])
 
-- 🌱 I’m currently learning **NextJs** **System Design**
+- 🌱 I’m currently learning **System Design** && **Grafana**
 
 - 💬 Ask me about **Java**
 
